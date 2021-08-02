@@ -1,0 +1,301 @@
+{
+  "channels": {
+    "standalone-store": {
+      "states": [
+        {
+          "validFrom": "2021-07-11T20:03:05.091Z",
+          "activeEvents": [],
+          "state": {
+            "activePurchaseLimitingEventIds": [],
+            "storefront": {},
+            "rmtPromotionConfig": [],
+            "storeEnd": "0001-01-01T00:00:00.000Z"
+          }
+        }
+      ],
+      "cacheExpire": "2021-07-11T22:03:05.091Z"
+    },
+    "client-matchmaking": {
+      "states": [
+        {
+          "validFrom": "2021-07-11T20:03:05.091Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "NAE": {
+                "eventFlagsForcedOn": [
+                  "Playlist_Creative_LTM_FinestYTReal2v2",
+                  "Playlist_Titanium_Squads",
+                  "Playlist_Creative_LTM_FortniteJB",
+                  "Playlist_Creative_LTM_CityRoyale",
+                  "Playlist_Creative_LTM_RVBOGPrison"
+                ]
+              },
+              "NAW": {
+                "eventFlagsForcedOn": [
+                  "Playlist_Creative_LTM_FinestYTReal2v2",
+                  "Playlist_Titanium_Squads",
+                  "Playlist_Creative_LTM_FortniteJB",
+                  "Playlist_Creative_LTM_CityRoyale",
+                  "Playlist_Creative_LTM_RVBOGPrison"
+                ]
+              },
+              "EU": {
+                "eventFlagsForcedOn": [
+                  "Playlist_Creative_LTM_FinestYTReal2v2",
+                  "Playlist_Titanium_Squads",
+                  "Playlist_Creative_LTM_FortniteJB",
+                  "Playlist_Creative_LTM_CityRoyale",
+                  "Playlist_Creative_LTM_RVBOGPrison"
+                ]
+              },
+              "BR": {
+                "eventFlagsForcedOn": [
+                  "Playlist_Creative_LTM_FinestYTReal2v2",
+                  "Playlist_Titanium_Squads",
+                  "Playlist_Creative_LTM_FortniteJB",
+                  "Playlist_Creative_LTM_CityRoyale",
+                  "Playlist_Creative_LTM_RVBOGPrison"
+                ]
+              },
+              "OCE": {
+                "eventFlagsForcedOn": [
+                  "Playlist_Creative_LTM_FinestYTReal2v2",
+                  "Playlist_Titanium_Squads",
+                  "Playlist_Creative_LTM_FortniteJB",
+                  "Playlist_Creative_LTM_CityRoyale",
+                  "Playlist_Creative_LTM_RVBOGPrison"
+                ],
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
+              "ASIA": {
+                "eventFlagsForcedOn": [
+                  "Playlist_Creative_LTM_FinestYTReal2v2",
+                  "Playlist_Titanium_Squads",
+                  "Playlist_Creative_LTM_FortniteJB",
+                  "Playlist_Creative_LTM_CityRoyale",
+                  "Playlist_Creative_LTM_RVBOGPrison"
+                ],
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
+              "NA": {
+                "eventFlagsForcedOn": [
+                  "Playlist_Creative_LTM_FinestYTReal2v2",
+                  "Playlist_Titanium_Squads",
+                  "Playlist_Creative_LTM_FortniteJB",
+                  "Playlist_Creative_LTM_CityRoyale",
+                  "Playlist_Creative_LTM_RVBOGPrison"
+                ]
+              },
+              "ME": {
+                "eventFlagsForcedOn": [
+                  "Playlist_Creative_LTM_FinestYTReal2v2",
+                  "Playlist_Titanium_Squads",
+                  "Playlist_Creative_LTM_FortniteJB",
+                  "Playlist_Creative_LTM_CityRoyale",
+                  "Playlist_Creative_LTM_RVBOGPrison"
+                ]
+              },
+              "CN": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo",
+                  "Playlist_Bots_DefaultDuo",
+                  "Playlist_Deimos_DuoCN"
+                ]
+              },
+              "REGIONID": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Deimos_Duo_WinterCN"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "cacheExpire": "2021-07-11T22:03:05.091Z"
+    },
+    "tk": {
+      "states": [
+        {
+          "validFrom": "2021-07-11T20:03:05.091Z",
+          "activeEvents": [],
+          "state": {
+            "k": [
+              "97E91E4F436B598D654592793B595536:Pj0lxheibz4Db/C4ehhHGlOalLQAxFCS+2NYkHRbjyQ=",
+              "738C0E8B5DAB633906DC77FE4C4E48F9:qr1ZfbWRp+uqwBMvEhY1XBj7Sr7SxRsWHN7jqYPaZfU=",
+              "AC44D9C67B1FB24E70D94C827FC465AE:VrHcqJ9hMMqZicx3kS+qFfNXexXR/QA1/1bM+DwgqMw="
+            ]
+          }
+        }
+      ],
+      "cacheExpire": "2021-07-11T22:03:05.091Z"
+    },
+    "featured-islands": {
+      "states": [
+        {
+          "validFrom": "2021-07-11T20:03:05.091Z",
+          "activeEvents": [],
+          "state": {
+            "islandCodes": [
+              "2080-4473-7315?v=85",
+              "7136-4798-9978?v=122",
+              "8573-4598-4457?v=19",
+              "4073-6234-0153?v=42"
+            ],
+            "playlistCuratedContent": {},
+            "playlistCuratedHub": {
+              "Playlist_PlaygroundV2": "1767-7499-3185",
+              "Playlist_Creative_PlayOnly": "1767-7499-3185"
+            },
+            "islandTemplates": []
+          }
+        }
+      ],
+      "cacheExpire": "2021-07-11T22:03:05.091Z"
+    },
+    "community-votes": {
+      "states": [
+        {
+          "validFrom": "2021-07-11T20:03:05.091Z",
+          "activeEvents": [],
+          "state": {
+            "electionId": "",
+            "candidates": [],
+            "electionEnds": "9999-12-31T23:59:59.999Z",
+            "numWinners": 1
+          }
+        }
+      ],
+      "cacheExpire": "2021-07-11T22:03:05.091Z"
+    },
+    "client-events": {
+      "states": [
+        {
+          "validFrom": "2021-07-11T20:03:05.091Z",
+          "activeEvents": [
+            {
+              "eventType": "EventFlag.BBPromo.Quests",
+              "activeUntil": "2090-02-14T00:00:00.000Z",
+              "activeSince": "2019-11-19T00:00:00.000Z"
+            },
+            {
+              "eventType": "WL0",
+              "activeUntil": "2022-09-14T07:00:00.000Z",
+              "activeSince": "2020-08-01T07:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.LobbySeason17",
+              "activeUntil": "2021-09-24T14:00:00.000Z",
+              "activeSince": "2021-06-05T14:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday.Quests",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.LobbyStW.RoadTrip",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveIceStorms",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.ActiveFireStorms",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveLightningStorms",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveMiniBosses",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.MissionAlert.MegaAlert",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.Phoenix.RoadTrip",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.ElderGroupMissions",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.Phoenix.RoadTrip.Quests",
+              "activeUntil": "2021-09-05T00:00:00.000Z",
+              "activeSince": "2021-06-20T00:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.LTQ_S17_Legendary_Week_05",
+              "activeUntil": "2021-07-14T14:00:00.000Z",
+              "activeSince": "2021-07-07T14:00:00.000Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday.Quests.Phase4",
+              "activeUntil": "2021-07-18T00:00:00.000Z",
+              "activeSince": "2021-07-11T00:00:00.000Z"
+            }
+          ],
+          "state": {
+            "activeStorefronts": [],
+            "eventNamedWeights": {},
+            "activeEvents": [
+              {
+                "instanceId": "0cadq9pi595cioh9l5umgil9fr[2]0",
+                "devName": "S17 Legendary Quest Week 5",
+                "eventName": "CalendarEvent_Season17_Legendary_Week_05",
+                "eventStart": "2021-07-07T14:00:00Z",
+                "eventEnd": "2021-07-14T14:00:00Z",
+                "eventType": "EventFlag.LTQ_S17_Legendary_Week_05"
+              }
+            ],
+            "seasonNumber": 17,
+            "seasonTemplateId": "AthenaSeason:athenaseason17",
+            "matchXpBonusPoints": 0,
+            "eventPunchCardTemplateId": "",
+            "seasonBegin": "2021-06-05T14:00:00Z",
+            "seasonEnd": "2021-09-24T14:00:00Z",
+            "seasonDisplayedEnd": "2021-09-30T04:00:00Z",
+            "weeklyStoreEnd": "2021-07-12T00:00:00Z",
+            "stwEventStoreEnd": "2021-09-05T00:00:00.000Z",
+            "stwWeeklyStoreEnd": "2021-07-15T00:00:00.000Z",
+            "sectionStoreEnds": {
+              "Daily": "2021-07-12T00:00:00Z",
+              "FootballIconB": "2021-07-12T00:00:00Z",
+              "ArmBatZero": "2021-07-12T00:00:00Z",
+              "Featured": "2021-07-12T00:00:00Z",
+              "Featured2": "2021-07-12T00:00:00Z"
+            },
+            "rmtPromotion": "",
+            "dailyStoreEnd": "2021-07-12T00:00:00Z"
+          }
+        }
+      ],
+      "cacheExpire": "2021-07-11T22:03:05.091Z"
+    }
+  },
+  "cacheIntervalMins": 15,
+  "currentTime": "2021-07-11T20:21:00.695Z"
+}

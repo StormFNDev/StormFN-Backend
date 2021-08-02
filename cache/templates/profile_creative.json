@@ -1,0 +1,51 @@
+{
+  "created": "",
+  "updated": "",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "",
+  "profileId": "creative",
+  "version": "fix_empty_users_again_july_2019",
+ "items": {
+    "d47d08a2-d304-4b30-9104-c37666ce12fa" : {
+      "attributes" : {
+        "descriptionTags" : [],
+        "favorite" : false,
+        "introduction" : "",
+        "islandIndex" : 1,
+        "island_code" : "",
+        "item_seen" : false,
+        "last_published_date" : "",
+        "last_published_version" : 0,
+        "last_used_date" : "",
+        "level" : 1,
+        "locale" : "",
+        "max_level_bonus" : 0,
+        "permissions" : {},
+        "tagline" : "",
+        "title" : "",
+        "vk_module_id" : "",
+        "vk_project_id" : "",
+        "xp" : 0,
+        "youtube_video_id" : ""
+                      },
+                  "quantity" : 1,
+                  "templateId" : "CreativePlot:PowerPlant_Large"
+  },
+          
+  "stats": {
+    "attributes": {
+      "last_used_battlelab_file": "",
+      "max_island_plots": 1000,
+      "publish_allowed": true,
+      "support_code": "TheGrefg",
+      "last_used_plot": "",
+      "permissions": [],
+      "creator_name": "TheGrefg",
+      "publish_banned": false,
+      "inventory_limit_bonus": 0
+    }
+  }
+}
+
+}

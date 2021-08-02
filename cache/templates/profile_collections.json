@@ -1,0 +1,98 @@
+{
+  "created": "",
+  "updated": "",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "",
+  "profileId": "collections",
+  "version": "fortnite_start",
+  "items": {
+          "1": {
+            "templateId": "CollectableCharacter:tandem",
+            "attributes": {
+              "collected": [
+                {
+                  "variantTag": "AISpawnerData.Type.Tandem.Maven",
+                  "contextTags": [
+                    "Athena.Location.UnnamedPOI.RadarDishBase.02"
+                  ],
+                  "properties": {
+                    "questsGiven": 100000,
+                    "questsCompleted": 100000,
+                    "encounterTypeFlags": 1
+                  },
+                  "seenState": "NewlyCompleted",
+                  "count": 1
+                }
+              ]
+            },
+            "quantity": 1
+          },
+          "2": {
+            "templateId": "CollectableCharacter:tandem",
+            "attributes": {
+              "collected": [
+                {
+                  "variantTag": "AISpawnerData.Type.Tandem.AlienTrooper",
+                  "contextTags": [
+                    "Athena.Location.UnNamedPOI.Tandem.AlienTrooper"
+                  ],
+                  "properties": {
+                    "questsGiven": 100000,
+                    "questsCompleted": 100000,
+                    "encounterTypeFlags": 1
+                  },
+                  "seenState": "NewlyCompleted",
+                  "count": 1
+                }
+              ]
+            },
+            "quantity": 1
+          },
+           "3": {
+            "templateId": "CollectableCharacter:tandem",
+            "attributes": {
+              "collected": [
+                {
+                  "variantTag": "AISpawnerData.Type.Tandem.AlienSummer",
+                  "contextTags": [
+                    "Athena.Location.POI.PowerPlant"
+                  ],
+                  "properties": {
+                    "questsGiven": 100000,
+                    "questsCompleted": 100000,
+                    "encounterTypeFlags": 1
+                  },
+                  "seenState": "NewlyCompleted",
+                  "count": 1
+                }
+              ]
+            },
+            "quantity": 1
+          },
+           "4": {
+            "templateId": "CollectableCharacter:tandem",
+            "attributes": {
+              "collected": [
+                {
+                  "variantTag": "AISpawnerData.Type.Tandem.Jules",
+                  "contextTags": [
+                    "Athena.Location.UnnamedPOI.CampCod"
+                  ],
+                  "properties": {
+                    "questsGiven": 100000,
+                    "questsCompleted": 100000,
+                    "encounterTypeFlags": 1
+                  },
+                  "seenState": "NewlyCompleted",
+                  "count": 1
+                }
+              ]
+            },
+            "quantity": 1
+          }
+        },
+  "stats": {
+    "attributes": {}
+  }
+}

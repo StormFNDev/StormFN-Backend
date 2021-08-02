@@ -1,0 +1,4971 @@
+{
+  "_id": "storm",
+  "created": "2020-01-01T17:22:28.023Z",
+  "updated": "2020-03-24T00:25:49.087Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "storm",
+  "profileId": "collection_book_people0",
+  "version": "no_version",
+  "items": {
+    "6925904f-29dd-4212-9073-c6532b6ad9fb": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Cooperative-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "fce3c0e8-21d0-4bce-aba1-b12c3db822ee": {
+      "templateId": "Hero:hid_constructor_basehyper_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e20d2009-1a5d-4907-8a33-d9fa2a3c697c": {
+      "templateId": "Hero:hid_ninja_011_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b862c848-1072-4a64-99df-1b36804799c5": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-M02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "2360bc22-5c7d-4f09-a2a6-9ee50b000164": {
+      "templateId": "CollectionBookPage:pagespecial_chinesenewyear2018_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "e449f286-4797-4d5f-b770-d0ac39f184e6": {
+      "templateId": "Worker:managerdoctor_vr_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Doctor-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsDoctor",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8f311f25-6d12-41b6-a616-8ca777a94368": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Cooperative-F02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "112ede50-374e-42fb-b6b0-e812058b488b": {
+      "templateId": "Hero:hid_ninja_smokedimmak_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e5207b26-43e8-4bf6-8e04-8135406886d0": {
+      "templateId": "CollectionBookPage:pagepromo_heroes_bbpromo",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "950a87c2-a1eb-4f1d-9616-b1416cd65030": {
+      "templateId": "Defender:did_defendershotgun_basic_f_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_durability",
+          "Alteration:aid_att_def_shieldregen",
+          "Alteration:aid_att_def_critchance_ranged",
+          "Alteration:aid_att_def_maxshield"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "762f7036-9857-4740-bdf5-03a3d32208d7": {
+      "templateId": "Hero:hid_ninja_starsassassin_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "7c3da29a-d5b0-490a-b41b-b74538526d3d": {
+      "templateId": "Hero:hid_outlander_021_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ef8c0c30-0a09-49eb-bcf2-885eecb8d55e": {
+      "templateId": "Hero:hid_commando_027_piratesoldier_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "6d45a2a9-39c4-4b89-a661-b56dfd763c88": {
+      "templateId": "CollectionBookPage:pageheroes_outlander",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Heroes_Campaign_Outlanders_1",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "3bdafa3e-b36b-44ec-9572-19072a87891b": {
+      "templateId": "Worker:managergadgeteer_r_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Gadgeteer-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsGadgeteer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "eff3880a-ab7f-44d6-b13a-2fed33cc7a6c": {
+      "templateId": "Worker:managersoldier_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Marksman-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsSoldier",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "6b99fa83-e836-46a3-af07-3b5e48453369": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Pragmatic-F03",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "d2d9f621-560d-4cfc-a406-15ed2e2af8c0": {
+      "templateId": "CollectionBookPage:pagespecial_roadtrip2018_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "a72b5568-ae3a-4787-bd47-fac8ee21a95a": {
+      "templateId": "Hero:hid_constructor_014_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8a688860-a573-4633-b44c-63e376b8b39f": {
+      "templateId": "Hero:hid_commando_023_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "c6fb4c4e-d929-4958-843e-75dd5413c6e7": {
+      "templateId": "Worker:managergadgeteer_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Gadgeteer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsGadgeteer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "52431ffd-31cf-4489-8f8a-6bbef7e76eaf": {
+      "templateId": "Hero:hid_outlander_punchphase_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "671f1282-1d23-4570-942e-0c0db8f1831c": {
+      "templateId": "Hero:hid_ninja_009_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "1cf3b7cd-c60d-472b-abf6-7aada52ad603": {
+      "templateId": "Hero:hid_outlander_013_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "5822a0f7-e803-431e-9336-356c9923ff62": {
+      "templateId": "Hero:hid_constructor_015_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "cb2d8593-849e-47ab-95c2-d5611a5de57e": {
+      "templateId": "Hero:hid_outlander_zonepistol_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "cb00962c-95e8-4c61-ae93-86b872786d76": {
+      "templateId": "Hero:hid_constructor_hammertank_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b01f1bf0-4249-4be1-94ca-87caa0b1f0ca": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_roboray",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "ad27b2da-b4c1-42ab-9dd5-ea0b9639eca6": {
+      "templateId": "CollectionBookPage:pagespecial_halloween2017_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "ce39d136-a920-46eb-be70-b3e1fe528cc7": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-F03",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "d3d85e8f-c561-4dcf-9ffc-f8e75265b634": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_powerhouse",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "3a388b23-3f0d-487e-bf19-c9774539961b": {
+      "templateId": "Hero:hid_constructor_011_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8f35924b-fa45-4c30-a6f3-e5cb1922ea98": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Pragmatic-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "7de8c74b-6d8e-4e19-9765-65857d585278": {
+      "templateId": "Worker:managerengineer_vr_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Engineer-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e817459a-28f3-4f12-b678-cd2734772ada": {
+      "templateId": "Worker:managerexplorer_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsExplorer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "2b8bb335-a446-4c02-9bf2-dcf8fb4cc291": {
+      "templateId": "Hero:hid_ninja_010_f_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "3f06e6b2-399e-4028-bdcf-01652e8cb51d": {
+      "templateId": "Hero:hid_commando_009_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a985262d-d481-4d60-926e-4022ca0eb001": {
+      "templateId": "Hero:hid_commando_024_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e9d5d9ff-8ed0-46fb-9bdc-5c3a3706ff74": {
+      "templateId": "Hero:hid_constructor_007_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ef011380-f195-47f8-9796-bbd10e2e5771": {
+      "templateId": "Hero:hid_outlander_punchphase_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "0d631ebc-c622-403f-bffc-7edb6e041fd1": {
+      "templateId": "Hero:hid_commando_011_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "494e9921-648a-4650-ae6c-d16b739c39b5": {
+      "templateId": "Defender:did_defendersniper_basic_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critchance_ranged",
+          "Alteration:aid_att_def_maxshield",
+          "Alteration:aid_att_def_firerate",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d85d3e74-55c8-4e6b-a094-649c8e52c29d": {
+      "templateId": "Worker:managertrainer_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": false,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-PersonalTrainer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e8a4f827-4419-4f3d-b3e7-eacf93b15e4d": {
+      "templateId": "Worker:managerengineer_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Engineer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "3ebc22a1-8c0d-4143-8cde-e0adff102076": {
+      "templateId": "Hero:hid_commando_gunheadshot_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "93cf3a3d-9ccd-4fc4-91d0-d21f22614500": {
+      "templateId": "Worker:managergadgeteer_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Gadgeteer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsGadgeteer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8db52477-f638-4c9b-8c81-c49cee3c2d80": {
+      "templateId": "Defender:did_defenderpistol_basic_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_clipsize",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_reload",
+          "Alteration:aid_att_def_critchance_ranged"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8de59cc9-1170-4ab6-a601-cf77632ef442": {
+      "templateId": "CollectionBookPage:pagespecial_homebase_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "857a285c-5150-47de-ad0a-36e188eff98a": {
+      "templateId": "Hero:hid_constructor_011_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "9ba9b70e-29bd-45c3-aba8-28ce0d0da06b": {
+      "templateId": "Worker:managerexplorer_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsExplorer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "865922ae-c376-4886-b549-5fc5a872bc7a": {
+      "templateId": "Defender:did_defendersniper_basic_m_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_firerate",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_critchance_ranged"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "6d0eb461-0b40-4f17-8612-8e2a5539157f": {
+      "templateId": "Hero:hid_commando_grenademaster_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "2260ce18-7485-4189-966e-f19e00a8ab7e": {
+      "templateId": "CollectionBookPage:pagespecial_stormzonecyber_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "499624f6-a8f2-46c2-9859-9a8c07978fc2": {
+      "templateId": "CollectionBookPage:pagespecial_winter2017_heroes",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Heroes_Winter2019_Commando_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Winter2019_Outlander_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Winter2017_Ninja",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Winter2017_Outlander",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Winter2018_Commando_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Winter2017_Commando",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "44655a8a-ebbe-4091-ad8e-bce5b9585087": {
+      "templateId": "Defender:did_defenderpistol_basic_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_reload",
+          "Alteration:aid_att_def_shieldregen",
+          "Alteration:aid_att_def_reload"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "c58176b3-4954-418a-b902-08ed6532b254": {
+      "templateId": "Hero:hid_outlander_009_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8a274333-79c5-4f63-bc52-cbc4ff761f81": {
+      "templateId": "CollectionBookPage:pagespecial_starterpack_lokbot",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "7f330d8a-7892-43db-8423-7cf5ac54fcfe": {
+      "templateId": "Hero:hid_constructor_plasmadamage_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "3e8d55b4-a7c8-40af-b492-1078ec7fe055": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "c2a130d8-fe76-4835-847f-99b2b162f7c9": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Competitive-F03",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsAbilityDamageLow"
+      },
+      "quantity": 1
+    },
+    "6c5496ec-6f06-4c86-9b4f-7ec62c813027": {
+      "templateId": "Defender:did_defenderpistol_basic_uc_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critdamage_ranged",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ef8bab02-8751-4a0f-b819-adf8b099d93b": {
+      "templateId": "Hero:hid_constructor_myth02_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d2c37a9f-0c28-4cf6-9d68-95c6d4571c72": {
+      "templateId": "Worker:managerengineer_r_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Engineer-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e37db7f7-300e-4516-bba2-4cdc8a40b94d": {
+      "templateId": "Hero:hid_constructor_025_progressivepirateconstructor_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "61cc0921-df1d-45a7-8361-febec9f456e8": {
+      "templateId": "CollectionBookPage:pagepeople_defenders",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "people_Defenders_2",
+            "state": "Completed"
+          },
+          {
+            "section": "people_Defenders_6",
+            "state": "Completed"
+          },
+          {
+            "section": "people_Defenders_5",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "f5081429-7d1d-442c-862c-b665b8a28974": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-M02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "9661ca96-1d6c-405e-b6c8-47470692a268": {
+      "templateId": "Defender:did_defenderassault_basic_m_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critchance_ranged",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_maxshield",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a7765ccf-72d3-47e1-931c-ef413e1611af": {
+      "templateId": "Hero:hid_ninja_013_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "c60b5906-3ae1-4a37-91e6-1851cb1e3dff": {
+      "templateId": "Hero:hid_constructor_rushbase_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "fe9e5850-2c0e-45d9-9c76-06fd78b0dd9c": {
+      "templateId": "Hero:hid_commando_008_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4e6069eb-750f-4ac2-8a07-63f52077bc42": {
+      "templateId": "Defender:did_defendershotgun_basic_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": false,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_reload",
+          "Alteration:aid_att_def_maxshield",
+          "Alteration:aid_att_def_clipsize"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "77ab0da5-f5a9-4a1b-954b-2c9c517d9214": {
+      "templateId": "Hero:hid_ninja_myth02_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b032565d-e166-4da9-b2cd-c7999c2ad44e": {
+      "templateId": "Hero:hid_ninja_smokedimmak_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e7ee68d6-277f-4413-bdf4-f5de7ce619fd": {
+      "templateId": "CollectionBookPage:pageheroes_commando",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Heroes_Commando_3",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Commando_6",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Campaign_Soldiers_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Commando_10",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "0b4b890e-b0f5-4ef0-879f-2c1963ac904c": {
+      "templateId": "CollectionBookPage:pagepeople_uniqueleads",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "e469ae62-cb3c-4dee-94a6-b8a015e3dc6b": {
+      "templateId": "Defender:did_defenderassault_basic_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_reload",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_critchance_ranged"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "2692ebbe-719d-4f0b-9a98-89fca2c4a86e": {
+      "templateId": "Hero:hid_constructor_007_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "31264e94-fb0a-4f1b-8685-2facc143e3e6": {
+      "templateId": "Defender:did_defendermelee_basic_uc_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_spears",
+          "Alteration:aid_att_def_maxshield"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "efbc78d4-c37e-482a-830f-761daceb243a": {
+      "templateId": "Hero:hid_commando_019_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "0b3aec2c-b10f-488c-84bd-aa3c82fd81df": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Analytical-F02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsRangedDamageLow"
+      },
+      "quantity": 1
+    },
+    "3008a754-455f-419a-a176-bdce1e1cc285": {
+      "templateId": "Hero:hid_outlander_025_pirateoutlander_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "83ff1fe8-08c9-4001-a9d7-d12e96383182": {
+      "templateId": "Hero:hid_commando_027_piratesoldier_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "cb6fa40e-fcbb-4ada-a242-2d92858e028c": {
+      "templateId": "Hero:hid_ninja_007_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8093c5c1-ecf2-407b-8e7e-deaa8493034b": {
+      "templateId": "CollectionBookPage:pagespecial_artdeco_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "7a6a6201-d50d-4ad4-a00e-2c46f0318f23": {
+      "templateId": "Hero:hid_outlander_zoneharvest_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "222d9bcd-f97a-49f8-b6e6-a74d68c4f7aa": {
+      "templateId": "Hero:hid_commando_guntough_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "2b8d77ee-05dc-433c-910f-4c8f56f82d29": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_metalteamleader",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "f9f3c271-3c83-4cc7-8148-7dcbda8a799d": {
+      "templateId": "Hero:hid_ninja_slashtail_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "f4d1ae8b-56cf-4c62-b8a3-b28c50fdac6c": {
+      "templateId": "Hero:hid_commando_015_m_v1_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "eed8cf9b-26bc-4c5f-9356-db1eb124f708": {
+      "templateId": "Hero:hid_commando_013_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b665aed3-77aa-4cfd-a767-9438d75b11c8": {
+      "templateId": "Worker:managerexplorer_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsExplorer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "da0e31ff-7704-4ce9-9279-decc92afca4e": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-M03",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "d354239e-3f97-4748-944d-34f82cecda36": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Competitive-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "758f6c25-886d-4abd-8a0c-b3bd81c37906": {
+      "templateId": "Hero:hid_constructor_009_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e58c198b-0574-41d9-8900-9d5b275141d5": {
+      "templateId": "Hero:hid_constructor_030_radconstructor_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "c3c40472-959c-402b-be19-c896337dc0db": {
+      "templateId": "Worker:managersoldier_c_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Marksman-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsSoldier",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a50524f0-57fe-4bca-b189-3e19677d274d": {
+      "templateId": "Hero:hid_ninja_007_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "08573d05-d282-4a7c-a780-42845c20b82a": {
+      "templateId": "Hero:hid_outlander_011_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "41981bf2-75ba-443a-8c49-4a2f5af82fcc": {
+      "templateId": "Hero:hid_constructor_hammerplasma_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d1de8723-94ff-44b9-bae1-fe763fb96a40": {
+      "templateId": "Worker:managertrainer_sr_jumpy_t01",
+      "attributes": {
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-SR-PersonalTrainer-jumpy",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "5d3b29bc-d9a1-4edf-8112-506faefa687c": {
+      "templateId": "Hero:hid_commando_grenadegun_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "bd1fd545-52df-4d1b-bbc3-e16057f7fed7": {
+      "templateId": "Hero:hid_commando_shockdamage_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4b308870-5cc4-4ade-8315-68a4d80b9230": {
+      "templateId": "Defender:did_defendershotgun_basic_uc_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_durability",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "181eb6cb-16eb-4822-8558-17b34d1e0c5f": {
+      "templateId": "Worker:managermartialartist_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-MartialArtist-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsMartialArtist",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b8c1426c-81af-427c-a230-3472ce4e8d2a": {
+      "templateId": "Hero:hid_constructor_013_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b7421830-bbbe-472b-8e0e-63238f9aa29a": {
+      "templateId": "CollectionBookPage:pagespecial_blockbuster2018_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "29b6742b-eef9-47d3-bc7b-bc4d836522f6": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsResistanceLow"
+      },
+      "quantity": 1
+    },
+    "c688ac75-900f-42e9-a5b1-e37bfb8d4cb5": {
+      "templateId": "Hero:hid_ninja_027_bunnyninja_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d473ab4d-7290-4633-a025-0437c6b12dd6": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-M02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "a8beaca7-72c0-497e-bb0e-f4c6fbffa61c": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-M03",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "c891b0a5-d11b-4b02-8908-44edaafb15ea": {
+      "templateId": "Hero:hid_constructor_015_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "7e0f710d-25af-4731-88a8-9ace1acab7c2": {
+      "templateId": "Hero:hid_commando_011_m_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "425ebb3b-2ccf-47ab-9c0f-4ca16441e617": {
+      "templateId": "Hero:hid_constructor_008_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "6d01e824-50a8-4067-bcb9-f9f50b7ca354": {
+      "templateId": "Hero:hid_commando_013_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ff7ddb48-1180-4af8-96e5-3e227e0337ba": {
+      "templateId": "CollectionBookPage:pagespecial_springiton2018_people",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "433ac35b-8297-4d5a-b561-0e6ae5bb546d": {
+      "templateId": "Hero:hid_outlander_007_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "6566dc9f-03b9-489e-a8b1-00e8f3b02605": {
+      "templateId": "Hero:hid_commando_guntough_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "83624ed6-7d25-4245-9252-071b070e4811": {
+      "templateId": "Defender:did_defendermelee_basic_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_melee",
+          "Alteration:aid_att_def_maxshield",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e0a9dc66-cfde-4abc-b2ab-ab9f4aa2f5f2": {
+      "templateId": "Hero:hid_outlander_spherefragment_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4de09cbd-990a-443a-a30b-4d07032558b4": {
+      "templateId": "Hero:hid_ninja_025_pirateninja_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "9cee329b-3ca6-4ce1-abd5-b2706200ba48": {
+      "templateId": "Defender:did_defendermelee_basic_c_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_melee"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e30047ec-4fea-4e22-bfe1-370606d840b5": {
+      "templateId": "Hero:hid_outlander_015_f_v1_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "94afcb09-a464-4820-ad7f-7a64f968ca49": {
+      "templateId": "Defender:did_defendershotgun_basic_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_shotgun",
+          "Alteration:aid_att_def_maxshield",
+          "Alteration:aid_att_def_critdamage_ranged",
+          "Alteration:aid_att_def_maxshield"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "aab66242-9527-4e34-9356-a19d5fb0aa39": {
+      "templateId": "Hero:hid_ninja_013_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b02ee071-bcf1-42af-b6e7-188ffc458979": {
+      "templateId": "Worker:managertrainer_c_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": false,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-PersonalTrainer-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "08735f6a-10a9-4339-bea1-b8c61d30d2b9": {
+      "templateId": "Hero:hid_outlander_009_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "733c82f2-64a3-496d-bc20-2a205d2a4a3f": {
+      "templateId": "CollectionBookPage:pagespecial_steelwool_heroes",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Heroes_SteelWool_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_SteelWool_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_SteelWool_4",
+            "state": "Completed"
+          }
+        ],
+        "state": "Completed"
+      },
+      "quantity": 0
+    },
+    "033d7cf9-1476-4a27-91d6-2d2fdf4d56b0": {
+      "templateId": "Hero:hid_ninja_slashtail_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "1ed58682-f15b-410d-a95b-a6ccd6bb7cb4": {
+      "templateId": "CollectionBookPage:pagespecial_wildwest_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "c07f9209-e614-4876-84ac-487490d7adee": {
+      "templateId": "Hero:hid_constructor_rushbase_f_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b08f1be3-6749-4a96-8516-17871929dbd2": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-M02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "571b1cd8-6de6-42ed-a38b-b7123a4b1010": {
+      "templateId": "Hero:hid_commando_008_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "453b3f24-e9a6-4145-9b55-234069904a83": {
+      "templateId": "CollectionBookPage:pagespecila_retroscifi_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "f0c2430c-3b91-42e9-9b14-e4793ffb7bdc": {
+      "templateId": "Hero:hid_outlander_007_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "dc32d603-1364-40c1-97f4-2036c5301fb6": {
+      "templateId": "Worker:managertrainer_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-PersonalTrainer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "1c0a5e89-908e-4db5-b9cb-76ff11144399": {
+      "templateId": "Hero:hid_constructor_008_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "0cea07fe-4c95-4858-936c-52aa4ef224ba": {
+      "templateId": "Worker:managerengineer_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Engineer-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e77e5645-8bf6-4cec-a16e-ce24684e9808": {
+      "templateId": "Hero:hid_commando_grenadegun_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a5964f61-407a-4e08-bb1b-3ee3a7db3c37": {
+      "templateId": "Defender:did_defendershotgun_basic_f_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critchance_ranged",
+          "Alteration:aid_att_def_shieldregen",
+          "Alteration:aid_att_def_critchance_ranged"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "635e0131-7a25-49b6-a376-d4ba7574b662": {
+      "templateId": "CollectionBookPage:pagespecial_stormzone_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "e74989d0-fd18-4945-9356-a872d77ebe64": {
+      "templateId": "Worker:managerdoctor_r_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Doctor-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsDoctor",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a3d2ec2a-aff6-4b6a-b77a-1ec63f26c687": {
+      "templateId": "CollectionBookPage:pagespecial_shadowops_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "a3b93149-2ac6-4a36-83ab-125d40588d32": {
+      "templateId": "Hero:hid_ninja_015_f_v1_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "389f4dcb-4177-4fdf-846a-a1f459b36f9a": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-M02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsRangedDamageLow"
+      },
+      "quantity": 1
+    },
+    "4d775237-79b1-4a5c-a88f-4106f38734e5": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Analytical-M02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsResistanceLow"
+      },
+      "quantity": 1
+    },
+    "8ba075a5-efaf-4b30-8da2-e73e2d58c8b7": {
+      "templateId": "Defender:did_defendershotgun_basic_c_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_reload"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4149b58d-2f0d-4e84-bd2f-68a119db6ad1": {
+      "templateId": "Hero:hid_outlander_034_period_fleming_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d17a1408-8bc5-42c9-b865-fe60d1c8a497": {
+      "templateId": "Worker:managerinventor_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Inventor-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsInventor",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "097bdfe8-2344-478d-bd11-31c160f0f2c9": {
+      "templateId": "CollectionBookPage:pagespecial_scavenger_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "bb377356-12aa-42b2-9401-690fa079d0d1": {
+      "templateId": "Worker:managerdoctor_c_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Doctor-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsDoctor",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "c54d5e89-e9da-42e0-b6fa-2ed7eff24a3a": {
+      "templateId": "Worker:managerengineer_sr_sobs_t01",
+      "attributes": {
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-SR-Engineer-sobs",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "333bb575-a571-42dd-a0bd-788ef8d63897": {
+      "templateId": "Hero:hid_commando_010_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "1ca34f93-72ad-4c16-b2fe-8f6554231921": {
+      "templateId": "Worker:managerdoctor_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Doctor-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsDoctor",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a1d3e6e0-e186-4d1e-a065-5b7fa3c89bb1": {
+      "templateId": "Hero:hid_commando_024_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "0acc4184-115d-4842-a370-42a5f5cc0884": {
+      "templateId": "Hero:hid_ninja_starsassassin_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "9d06788b-7578-491e-9afd-09b85020bc95": {
+      "templateId": "CollectionBookPage:pageheroes_constructor",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Heroes_Campaign_Constructors_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Constructor_8",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "f6262c1c-1c05-4e2b-80d8-78737944dc16": {
+      "templateId": "CollectionBookPage:pagepeople_leads",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "people_Survivors_Leads_5",
+            "state": "Completed"
+          },
+          {
+            "section": "people_Survivors_Leads_1",
+            "state": "Completed"
+          },
+          {
+            "section": "people_Survivors_Leads_2",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "ed1ca361-9be1-4eb0-ba89-5be963a04881": {
+      "templateId": "Hero:hid_outlander_008_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "cf763058-e5be-41f4-9beb-511fb4c595ef": {
+      "templateId": "Hero:hid_ninja_022_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4238f31e-cd60-4bb0-8e43-3526dd06e73e": {
+      "templateId": "Hero:hid_ninja_021_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "63c02f5b-71a7-45fd-8eac-5476fff71284": {
+      "templateId": "Hero:hid_outlander_032_toyoutlander_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "f3a79354-9d3d-467b-8c16-33c0ec18bf94": {
+      "templateId": "Hero:hid_commando_007_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "0f01036b-dfc4-4b57-99a5-8e793e30796c": {
+      "templateId": "Defender:did_defenderassault_basic_uc_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": false,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_clipsize",
+          "Alteration:aid_att_def_maxhealth"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "9353b9b2-6608-4e75-a0f3-b5fd5f617fa0": {
+      "templateId": "Hero:hid_commando_011_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "2e045292-287d-4198-b3e7-a99bb497f15e": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Analytical-M02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "ee98b276-7cd1-4ae6-85a4-619c45c45d88": {
+      "templateId": "Hero:hid_outlander_010_m_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "62b786fa-a69b-4594-9b0b-9c427b063af1": {
+      "templateId": "Hero:hid_outlander_013_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8f3e5b98-fd11-415f-92ec-334cf52982a0": {
+      "templateId": "Worker:managersoldier_r_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Marksman-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsSoldier",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a66b65eb-21b3-4427-8579-1cde103a0c30": {
+      "templateId": "Hero:hid_constructor_rushbase_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ad1a9688-2899-46ee-91c9-cec13d4d1420": {
+      "templateId": "Defender:did_defenderpistol_basic_f_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_pistol",
+          "Alteration:aid_att_def_shieldregen",
+          "Alteration:aid_att_def_reload",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "061e02dc-a44f-4103-9b8f-7afe32800166": {
+      "templateId": "Hero:hid_constructor_007_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "defd1f4b-026a-4843-a2f0-9a384f112492": {
+      "templateId": "CollectionBookPage:pagespecial_dinosaurs_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "23185215-b740-4d8a-8a35-244455667a89": {
+      "templateId": "Defender:did_defendersniper_basic_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_firerate",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_maxshield"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a6547bd4-e8c1-48ad-99e4-3d8123bf9d51": {
+      "templateId": "Hero:hid_commando_034_toytinkerer_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "f8add22c-c2cc-4aa1-823a-a07776cbd37e": {
+      "templateId": "Hero:hid_outlander_punchphase_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "5892c9a3-1e1b-4f87-81b3-4835dd6634a7": {
+      "templateId": "CollectionBookPage:pagespecial_rad_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "67cbe1da-6fb2-42fe-9be2-1f79a07a1256": {
+      "templateId": "Worker:managermartialartist_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-MartialArtist-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsMartialArtist",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "c74d2afc-cdaf-4410-8faf-f148aded8aa0": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Analytical-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "cbf9c9de-e669-42a1-977a-315fc2456d0c": {
+      "templateId": "Defender:did_defendersniper_basic_m_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_clipsize",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "1487d98d-ba3e-4928-8280-d4a4f8bb5456": {
+      "templateId": "Defender:did_defenderassault_basic_m_sr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_reload",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_clipsize",
+          "Alteration:aid_att_def_critchance_ranged",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "3351edf2-8102-4c4e-adbb-6b879ed62ca8": {
+      "templateId": "Defender:did_defendersniper_basic_uc_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_ammosave",
+          "Alteration:aid_att_def_maxhealth"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "71decf1c-c50c-4364-8b12-8dba487f1842": {
+      "templateId": "Worker:managermartialartist_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-MartialArtist-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsMartialArtist",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ff33e12f-10e4-48bc-ae42-1b256ea5a3bc": {
+      "templateId": "CollectionBookPage:pagespecial_pirates_heroes",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Heroes_PirateCrew_3",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_PirateCrew_4",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_PirateCrew_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_PirateCrew_6",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "11f5302d-7cbc-453c-b88b-5b9607ed38f5": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "dbe173b5-cae1-4dbb-8118-a535cb796869": {
+      "templateId": "Hero:hid_commando_009_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "371ad918-5a21-44ca-80fb-8d7bb4aa5f3e": {
+      "templateId": "Hero:hid_outlander_020_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d2be4216-d15e-4503-a4d2-2efd441859f7": {
+      "templateId": "Hero:hid_commando_021_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a7ca6de3-35d7-489f-93e6-4fac4a807ea3": {
+      "templateId": "Hero:hid_ninja_slashbreath_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8ebf46bf-137d-46c3-b3e4-66b72a4e21c6": {
+      "templateId": "CollectionBookPage:pagespecial_heroes_spy",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "0b861ba1-7ff7-424c-8537-786d2c41ae1a": {
+      "templateId": "Defender:did_defendersniper_basic_c_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critchance_ranged"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "f5cf4751-3256-4692-8104-e52e52225fa0": {
+      "templateId": "Hero:hid_constructor_plasmadamage_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "494acb1c-a6b2-484f-a844-dc0720e8dea5": {
+      "templateId": "Hero:hid_constructor_rushbase_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "49e40ddb-6d3d-4598-928e-c18540550690": {
+      "templateId": "Worker:managerinventor_vr_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Inventor-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsInventor",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8b4bb7b0-9fe7-4f5f-befb-f9616072225e": {
+      "templateId": "Hero:hid_commando_009_m_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "1489aa1a-43b8-42be-af3e-f37a1a39984b": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_samuraiscrapper",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "557b3fa9-5f75-40b2-aa04-2487cd30cb56": {
+      "templateId": "Hero:hid_constructor_026_bombsquadconstructor_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4737f9d6-eb1f-479d-ae4e-12ad721dc88a": {
+      "templateId": "Hero:hid_constructor_010_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "fb932426-87d0-44c5-8744-99d39cc949d6": {
+      "templateId": "Hero:hid_constructor_basehyper_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4a5e7765-fd5d-4829-9489-7b5a64911d35": {
+      "templateId": "Hero:hid_outlander_zoneharvest_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "76fb780f-af96-4012-a7d1-97093a0c2569": {
+      "templateId": "Hero:hid_commando_grenadegun_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "23920a5f-5ea7-4e2c-8ef5-96daa02597d3": {
+      "templateId": "Hero:hid_constructor_022_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "5c940d66-1029-4316-a9b1-872c6d7947f6": {
+      "templateId": "Defender:did_defenderassault_basic_c_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_firerate"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ca42af25-81fa-4b09-897c-b4094e982995": {
+      "templateId": "Hero:hid_commando_022_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a1eba400-fd47-47d9-a283-f8fbe5477008": {
+      "templateId": "Defender:did_defenderassault_basic_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_durability",
+          "Alteration:aid_att_def_shieldregen",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_maxshield"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "cc29da90-bb2a-429a-97e9-856afc6e577f": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Cooperative-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "59268307-f419-4099-a581-2d5a26563f74": {
+      "templateId": "Hero:hid_commando_007_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "81ed8e52-5ae8-468d-90ca-503742e2dfb8": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": false,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-M01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "cbdd4d68-7af6-43f8-9652-da0e487a3ec1": {
+      "templateId": "CollectionBookPage:pagepeople_survivors",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Survivors_Common_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Uncommon_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Common_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Rare_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Uncommon_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Rare_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_VeryRare_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_VeryRare_1",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "6adece6d-3451-48b6-8c75-79c266a2dd34": {
+      "templateId": "Hero:hid_ninja_swordmaster_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8c8e6d25-9a60-4153-8a08-fc72dbae4c10": {
+      "templateId": "Hero:hid_ninja_007_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "20d50055-41fa-4607-8827-6d3531e5f5af": {
+      "templateId": "Hero:hid_constructor_plasmadamage_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4bc799f3-98d5-4e29-ae44-cc1a02c210a5": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsRangedDamageLow"
+      },
+      "quantity": 1
+    },
+    "6c157322-8011-45f4-944e-1bd624e18c88": {
+      "templateId": "Defender:did_defenderassault_basic_m_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_ammosave",
+          "Alteration:aid_att_def_shieldregen",
+          "Alteration:aid_att_def_critchance_ranged"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "50b1fd86-2442-4d16-81ae-68f7570e2c3b": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Competitive-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsRangedDamageLow"
+      },
+      "quantity": 1
+    },
+    "87dfc187-0936-41e2-b327-3abb366c203d": {
+      "templateId": "Defender:did_defendershotgun_basic_sr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_durability",
+          "Alteration:aid_att_def_shieldregen",
+          "Alteration:aid_att_def_reload",
+          "Alteration:aid_att_def_critchance_ranged",
+          "Alteration:aid_att_def_maxshield"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "82a486e5-38f8-4f8c-837f-f48d4e54c46f": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Cooperative-F03",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "bca40800-697b-43a6-9c9b-f5421e7e27f6": {
+      "templateId": "Hero:hid_ninja_015_f_v1_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "172b7184-7602-41ea-8d4c-d60b908acdaa": {
+      "templateId": "Hero:hid_commando_gcgrenade_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "141a6000-9000-4430-ba04-9097e46e2d03": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "372f88c8-3021-4d95-9355-9d4b1d077d0d": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-F03",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "5ebccdb1-63d4-4650-bfe2-043009191249": {
+      "templateId": "Hero:hid_constructor_hammertank_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "377ccc01-c4af-4dce-bec8-00f065454ccc": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Competitive-M02",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsAbilityDamageLow"
+      },
+      "quantity": 1
+    },
+    "f575abfe-7c5c-45a5-92c7-e9835486c99a": {
+      "templateId": "Hero:hid_commando_gcgrenade_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "99354627-1003-4139-ba8b-8676c0063947": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-F03",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "6463d372-07a7-47e3-b3ec-648d13100f15": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_machinistmina",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "e5cc7399-2260-452c-8cd5-28a8c41c2f86": {
+      "templateId": "Hero:hid_constructor_013_uc_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "f1aa0ccf-8b6d-4adf-8d2a-fbed23238d6a": {
+      "templateId": "Worker:managerinventor_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Inventor-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsInventor",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "2dc45872-02fb-4fb9-b085-dbac345088aa": {
+      "templateId": "CollectionBookPage:pagespecial_halloween2017_workers",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "0c25aa61-95a4-4027-9040-a4ef9976da94": {
+      "templateId": "Hero:hid_ninja_013_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "76dba1b6-76cb-4ad1-a25a-24c4082c9040": {
+      "templateId": "Hero:hid_commando_009_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "08864611-4c49-4a5f-861f-fab6f0388300": {
+      "templateId": "Defender:did_defenderpistol_basic_c_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_firerate"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "2b4e0555-101a-49c7-aef5-bc03b0239829": {
+      "templateId": "Hero:hid_constructor_013_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "797ab59a-2f93-4133-863e-833c1efd7035": {
+      "templateId": "Defender:did_defenderpistol_basic_f_r_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critchance_ranged",
+          "Alteration:aid_att_def_shieldregen",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d9cf273e-5854-412d-89f0-e6f338cfc01c": {
+      "templateId": "Worker:managerinventor_r_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Inventor-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "managerSynergy": "Homebase.Manager.IsInventor",
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "bc230b08-cd87-4c5a-b2aa-e21c0717f259": {
+      "templateId": "Defender:did_defenderpistol_basic_f_sr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_pistol",
+          "Alteration:aid_att_def_maxshield",
+          "Alteration:aid_att_def_weapondamage_pistol",
+          "Alteration:aid_att_def_firerate",
+          "Alteration:aid_att_def_shieldregen"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "77058ca7-13e0-4e73-9fe6-584a1f79c2ec": {
+      "templateId": "Hero:hid_constructor_021_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "36a0d331-3b1a-4d36-a0c4-81e452fc3772": {
+      "templateId": "Hero:hid_commando_myth03_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b0cd4040-7e0b-4b8c-b6a6-07901e12c093": {
+      "templateId": "Hero:hid_ninja_starsrain_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "cb9464ab-7a84-4361-88da-86b95e1d2a6b": {
+      "templateId": "Hero:hid_commando_044_gumshoe_dark_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4c676861-2f8f-4868-b79e-d6c03ba81af3": {
+      "templateId": "Hero:hid_commando_grenadegun_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "7345af1c-493f-4e0b-a60a-000f7b7bc4f1": {
+      "templateId": "Hero:hid_constructor_009_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "26615748-e955-4cdc-a3a4-1385d65101ae": {
+      "templateId": "Hero:hid_outlander_zoneharvest_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "1bd23e96-0b61-4ac1-a985-7725150b1831": {
+      "templateId": "Hero:hid_outlander_024_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "bc7a2744-f4cc-4281-a592-94eb2359ebbd": {
+      "templateId": "Hero:hid_commando_013_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e79996b9-c003-400c-b01e-7600dec01ab1": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Pragmatic-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "b261cf80-f989-42e3-85c0-42c5b01c9649": {
+      "templateId": "Hero:hid_ninja_014_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "0b469ea2-1dee-4c08-bad8-79387addd389": {
+      "templateId": "Hero:hid_commando_guntough_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "f1a4a73e-e0c2-47e9-a863-2d19f1e4d226": {
+      "templateId": "CollectionBookPage:pageheroes_ninja",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Heroes_Campaign_Ninjas_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Heroes_Ninja_10",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "7dc5faa7-f695-4529-a1e1-ea47b2936f53": {
+      "templateId": "CollectionBookPage:pagespecial_birthday_heroes",
+      "attributes": {
+        "sectionStates": [],
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "3fe58032-66a6-492a-844c-3a9c6c91d23d": {
+      "templateId": "Hero:hid_outlander_spherefragment_r_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "25225bef-e6a9-4a50-bf95-d3cf403354eb": {
+      "templateId": "Hero:hid_ninja_025_pirateninja_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "9db55e32-66ab-44b9-84eb-97afd271f117": {
+      "templateId": "Hero:hid_outlander_010_vr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "be592fa6-c1a0-4e07-9e51-1c2d0e7da3cf": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "2",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Pragmatic-F01",
+        "max_level_bonus": 0,
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "squad_id": "",
+        "xp": 0,
+        "slotted_building_id": "",
+        "building_slot_used": -1,
+        "favorite": false,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "d23c1e07-deef-4cca-a537-a98aba7cdb54": {
+      "templateId": "Hero:hid_outlander_025_pirateoutlander_sr_t01",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b75c4c2d-0a45-4645-909a-10b34c86718e": {
+      "templateId": "Defender:did_defendermelee_basic_vr_t01",
+      "attributes": {
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_spears",
+          "Alteration:aid_att_def_maxhealth",
+          "Alteration:aid_att_def_weapondamage_scythe",
+          "Alteration:aid_att_def_critchance_melee"
+        ],
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "inventory_limit_bonus": 0
+    }
+  },
+  "commandRevision": 0
+}

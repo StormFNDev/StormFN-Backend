@@ -1,0 +1,27 @@
+{
+  "name": "stormdev",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "random": "^3.0.6",
+    "uuid": "^8.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "author": "stormzyanddoener",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realdoener/StormFN-Backend/blob/doener/LICENSE"
+  },
+  "homepage": "backend isnt fucking skidded u fucking retards. mcp.js exists, go look there"
+}

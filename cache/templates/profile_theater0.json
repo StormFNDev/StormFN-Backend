@@ -1,0 +1,100 @@
+{
+  "_id": "storm",
+  "created": "2018-04-25T18:39:56.467Z",
+  "updated": "2020-02-05T22:45:21.455Z",
+  "rvn": 30689,
+  "wipeNumber": 9,
+  "accountId": "storm",
+  "profileId": "theater0",
+  "version": "clawback_promotion_dupe_august_2020",
+  "items": {
+    
+  },
+  "stats": {
+    "attributes": {
+      "player_loadout": {
+        "bPlayerIsNew": true,
+        "primaryQuickBarRecord": {
+          "slots": [
+            {
+              "items": []
+            },
+            {
+              "items": [
+                
+              ]
+            },
+            {
+              "items": [
+                
+              ]
+            },
+            {
+              "items": [
+                
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        "secondaryQuickBarRecord": {
+          "slots": [
+            {
+              "items": [
+               
+              ]
+            },
+            {
+              "items": [
+               
+              ]
+            },
+            {
+              "items": [
+               
+              ]
+            },
+            {
+              "items": [
+               
+              ]
+            },
+            {
+              "items": [
+               
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        "zonesCompleted": 0
+      },
+      "theater_unique_id": "",
+      "past_lifetime_zones_completed": 0,
+      "last_event_instance_key": "",
+      "last_zones_completed": 0,
+      "inventory_limit_bonus": 0
+    }
+  },
+  "profileLockExpiration": "0001-01-01T00:00:00.000Z",
+  "commandRevision": 10116
+}

@@ -1,0 +1,11 @@
+{
+  "responseMetadata" : { },
+  "records" : [ {
+    "namespace" : "0584d2013f0149a791e7b9bad0eec102",
+    "catalogItemId" : "6e563a2c0f5f46e3b4e88b5f4ed50cca",
+    "appName" : "9d2d0eb64d5c44529cece33fe2a46482",
+    "productId" : "68d2cc08f9a94b8fb51af4f5cfa6d41b",
+    "sandboxName" : "Grand Theft Auto V",
+    "sandboxType" : "PUBLIC"
+  } ]
+}

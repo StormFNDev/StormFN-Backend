@@ -1,0 +1,272 @@
+{
+  "_id": "",
+  "Update": "profile by tim",
+  "created": "2020-10-22T04:50:49.839Z",
+  "updated": "2020-12-04T15:20:43.863Z",
+  "rvn": 19,
+  "wipeNumber": 1,
+  "accountId": "",
+  "profileId": "athena",
+  "version": "neonite_2",
+  "items": {
+    "sandbox_loadout": {
+      "templateId": "CosmeticLocker:cosmeticlocker_athena",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "Pickaxe": {
+              "items": [
+                ""
+              ],
+              "activeVariants": []
+            },
+            "Dance": {
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            "Glider": {
+              "items": [
+                ""
+              ]
+            },
+            "Character": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                {
+                  "variants": []
+                }
+              ]
+            },
+            "Backpack": {
+              "items": [],
+              "activeVariants": [
+                {
+                  "variants": []
+                }
+              ]
+            },
+            "ItemWrap": {
+              "items": [],
+              "activeVariants": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "LoadingScreen": {
+              "items": [],
+              "activeVariants": [
+                null
+              ]
+            },
+            "MusicPack": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "SkyDiveContrail": {
+              "items": [],
+              "activeVariants": [
+                null
+              ]
+            }
+          }
+        },
+        "use_count": 1,
+        "banner_icon_template": "",
+        "locker_name": "",
+        "banner_color_template": "",
+        "item_seen": false,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaCharacter:CID_A_127_Athena_Commando_F_MechanicalEngineerSummer": {
+      "templateId": "AthenaCharacter:CID_A_127_Athena_Commando_F_MechanicalEngineerSummer",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": true
+      },
+      "quantity": 1
+    },
+    "AthenaCharacter:CID_028_Athena_Commando_F": {
+      "templateId": "AthenaCharacter:CID_028_Athena_Commando_F",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [
+          {
+            "channel": "Material",
+            "active": "Mat1",
+            "owned": [
+              "Mat1",
+              "Mat2"
+            ]
+          }
+        ],
+        "favorite": true
+      },
+      "quantity": 1
+    },
+    "AthenaDance:EID_Noodles_X6R9E": {
+      "templateId": "AthenaDance:EID_Noodles_X6R9E",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaDance:EID_HightowerWasabi": {
+      "templateId": "AthenaDance:EID_HightowerWasabi",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaDance:EID_Believer": {
+      "templateId": "AthenaDance:EID_Believer",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaDance:EID_Davinci": {
+      "templateId": "AthenaDance:EID_Davinci",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaDance:EID_DarkFireLegends": {
+      "templateId": "AthenaDance:EID_DarkFireLegends",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "AthenaCharacter:CID_A_131_Athena_Commando_F_JurassicArchaeologySummer": {
+      "templateId": "AthenaCharacter:CID_A_131_Athena_Commando_F_JurassicArchaeologySummer",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [
+          {
+            "channel": "Material",
+            "active": "Mat1",
+            "owned": [
+              "Mat1",
+              "Mat2"
+            ]
+          }
+        ],
+        "favorite": true
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "season_match_boost": 0,
+      "loadouts": [
+        "sandbox_loadout"
+      ],
+      "rested_xp_overflow": 0,
+      "mfa_reward_claimed": true,
+      "quest_manager": {},
+      "book_level": 0,
+      "season_num": 16,
+      "season_update": 1,
+      "book_xp": 1,
+      "permissions": [],
+      "book_purchased": false,
+      "lifetime_wins": 0,
+      "party_assist_quest": "",
+      "purchased_battle_pass_tier_offers": [],
+      "rested_xp_exchange": 0.333,
+      "level": 420,
+      "xp_overflow": 0,
+      "rested_xp": 0,
+      "rested_xp_mult": 0,
+      "accountLevel": 0,
+      "competitive_identity": {},
+      "inventory_limit_bonus": 0,
+      "last_applied_loadout": "sandbox_loadout",
+      "daily_rewards": {},
+      "xp": 0,
+      "season_friend_match_boost": 1,
+      "active_loadout_index": 1,
+      "favorite_musicpack": "",
+      "favorite_glider": "",
+      "favorite_pickaxe": "",
+      "favorite_skydivecontrail": "",
+      "favorite_backpack": "",
+      "favorite_dance": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "favorite_itemwraps": [],
+      "favorite_character": "",
+      "favorite_loadingscreen": ""
+    }
+  },
+  "commandRevision": 0
+}
